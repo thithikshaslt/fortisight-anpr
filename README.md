@@ -1,4 +1,4 @@
-# FortiSight ANPR
+# FortiSight
 
 FortiSight ANPR is the Automatic Number Plate Recognition module used by the wider **FortiSight video-management and analytics system**.
 
